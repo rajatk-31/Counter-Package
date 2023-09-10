@@ -17,6 +17,15 @@
     "react": "^18.2.0",
     "react-dom": "^18.2.0"
   },
+  "files": [
+    "dist",
+    "LICENSE",
+    "README.md"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rajatk-31/Counter-Package"
+  },
   "devDependencies": {
     "@testing-library/react": "^14.0.0",
     "@types/jest": "^29.5.4",
